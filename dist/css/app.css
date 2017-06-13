@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Jaldi:400,700");
+h1, h2, h3, h4, h5, h6 {
+  font-size: 30px;
+  font-family: "Jaldi", sans-serif;
+}
+
+h1 {
+  color: #ea34ea;
+}
+
+p {
+  font-size: 10px;
+}
+
+.btn {
+  width: 200px;
+  height: 70px;
+  background-color: green;
+  color: white;
+  border-radius: 50px;
+  border: none;
+}
+
+.btn--warning {
+  background-color: red;
+}
+
+.btn--submit {
+  background-color: green;
+}
+
+.temp-box {
+  width: 400px;
+  height: 200px;
+  padding: 15px;
+  background-color: blue;
+}
+
+.title {
+  font-weight: 400;
+  font-family: "Jaldi", sans-serif;
+  font-size: 32px;
+}
+
+/*# sourceMappingURL=app.css.map */

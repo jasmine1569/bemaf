@@ -1,0 +1,16 @@
+.btn{
+	width: 200px;
+	height: 70px;
+	background-color: green;
+	color: white;
+	border-radius: 50px;
+	border: none;
+
+	&--warning{
+		background-color: red;
+	}
+
+	&--submit{
+		background-color: green;
+	}
+}
